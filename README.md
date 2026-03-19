@@ -207,7 +207,7 @@ SQL-driven analysis turns raw retail data into strategic insights. Businesses ca
 This project demonstrates how data analysis influence smarter retail decisions, and sets the stage for advanced dashboards and predictive analytics.
 
 ## Author - Mayank Gite
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/mayank-gite-45373a144)
+- **LinkedIn**: www.linkedin.com/in/mayank-gite-45373a144
 
 
 This SQL project showcases my ability to turn raw data into actionable decisions and insights by analyzing data through SQL queries in PostgreSQL. 
